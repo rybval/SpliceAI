@@ -2,7 +2,7 @@ from pkg_resources import resource_filename
 import pandas as pd
 import numpy as np
 from pyfaidx import Fasta
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 import logging
 
 
